@@ -1,2 +1,2 @@
-# Ineuron-GCP-Assignments-Submissions
-Ineuron GCP Assignments Submissions
+# Ineuron.ai-GCP-Assignments
+Ineuron GCP Assignments
